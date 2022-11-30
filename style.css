@@ -38,7 +38,7 @@ body {
   display: flex;
   justify-content: center;
   position: relative;
-  top: 100px;
+  top: 120px;
 }
 
 .counter-all-num {
@@ -55,5 +55,6 @@ body {
 }
 
 .num {
-  font-weight: bold;
+  font-size: 30px;
+  /* font-weight: bold; */
 }
